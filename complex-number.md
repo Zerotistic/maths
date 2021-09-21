@@ -34,7 +34,7 @@ a³ - (-5/a)² - 4 = 0
 OR
 a⁶ - 4a³ + 125 = 0
 ```
-3. This equation is a bicarbonate equation.<br>
+3. This equation is a biquadratic equation.<br>
 By positing `a³=t`, it becomes: `t² - 4t + 125 = 0`. But `ρ = -484 = 4 * 121`.<br>
 To continue his reasoning, Bombelli assumes the existence of an **imaginary number**<br>
 `√(-1)`, denoted later **i**, of square equal to -1.<br>
