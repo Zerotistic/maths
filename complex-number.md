@@ -27,7 +27,7 @@ a³ - 3a²b + 3ab² - b³ - 15(a-b) - 4 = 0
 a³ - 3ab(a-b) - b³ - 15(a-b) - 4 = 0
 a³ - (a-b)(3ab+15) - b³ - 4 = 0
 ```
-2. In this equation, a and b are the unknowns. Bombelli then imagines imposing between a and b u, a link that implies the writing, by posing `3ab + 15 = 0 or b = -5/a`<br>
+2. In this equation, a and b are the unknowns. Bombelli then imagines imposing between a and b, a link that implies the writing, by posing `3ab + 15 = 0 or b = -5/a`<br>
 Thus he kills two birds with one stone: he has only the unknown a left, and the equation is simplified:
 ```
 a³ - (-5/a)² - 4 = 0
