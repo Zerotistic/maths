@@ -2,7 +2,7 @@
 ## Reminders and historical approach 
 
 1) Solving a 1st degree equation --> of the form `ax + b = 0` (with a ≠ 0)<br>
---> always only one solution: `x = -(a/b)`<br>
+--> always only one solution: `x = -(b/a)`<br>
 2) Solving a 2nd degree equation --> of the form `ax² + bx + c = 0`<br>
 --> use `x = (-b ±√(b²-4ac))/(2a)`<br>
 3) Solving the 3rd degree?<br>
