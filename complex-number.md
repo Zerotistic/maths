@@ -55,3 +55,4 @@ x² + 1 = 0 ; has no solution for the one who knows only the reals (ℝ)
 
 
 ## Towards a new ensemble
+Goal: to introduce a set larger than ℝ, in which all elements, even negative ones, admit a root of even index and to exploit these elements as tools for algebra, trigonometry, geometry, physics....: the set of **complex numbers**
