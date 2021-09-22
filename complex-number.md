@@ -59,14 +59,14 @@ Goal: to introduce a set larger than ℝ, in which all elements, even negative o
 ### New law
 To "make" a complex number, use 2 real numbers --> use ℝ²
 
-* Law already known about ℝ²:
-- Internal law + : `ℝ² * ℝ² -> ℝ² : ((a,b),(c,d)) ~> (a+c, b+d)`
-Properties => (ℝ², +) = commutative group
-- External law * : `ℝ * ℝ² -> ℝ² : (r,(a,b)) ~> (ra,rb)`
-Properties => `(ℝ,ℝ²,+)` = vector space of dimension 2
+* Law already known about ℝ²:<br>
+-- Internal law + : `ℝ² * ℝ² -> ℝ² : ((a,b),(c,d)) ~> (a+c, b+d)`<br>
+Properties => (ℝ², +) = commutative group<br>
+-- External law * : `ℝ * ℝ² -> ℝ² : (r,(a,b)) ~> (ra,rb)`<br>
+Properties => `(ℝ,ℝ²,+)` = vector space of dimension 2<br>
 
 * New law on ℝ²: 
-internal multiplication . : `ℝ² * ℝ² -> ℝ²`<br>
+-- internal multiplication . : `ℝ² * ℝ² -> ℝ²`<br>
 Properties => `(ℝ²{(0,0)}, -)` = commutative group
 
 ## Construction of ℂ
