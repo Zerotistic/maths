@@ -55,4 +55,18 @@ x² + 1 = 0 ; has no solution for the one who knows only the reals (ℝ)
 
 
 ## Towards a new set
-Goal: to introduce a set larger than ℝ, in which all elements, even negative ones, admit a root of even index and to exploit these elements as tools for algebra, trigonometry, geometry, physics....: the set of **complex numbers**
+Goal: to introduce a set larger than ℝ, in which all elements, even negative ones, admit a root of even index and to exploit these elements as tools for algebra, trigonometry, geometry, physics....: the set of **complex numbers**<br>
+### New law
+To "make" a complex number, use 2 real numbers --> use ℝ²
+
+* Law already known about ℝ²:
+- Internal law + : ℝ² * ℝ² -> ℝ² : ((a,b),(c,d)) ~> (a+c, b+d)
+Properties => (ℝ², +) = commutative group
+- External law. : ℝ * ℝ² -> ℝ² : (r,(a,b)) ~> (ra,rb)
+Properties => (ℝ,ℝ²,+) = vector space of dimension 2
+
+* New law on ℝ²: 
+internal multiplication . : ℝ² * ℝ² -> ℝ²<br>
+Properties => (ℝ²{{0,0}}, -) = commutative group
+
+### Construction of ℂ
