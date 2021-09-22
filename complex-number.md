@@ -60,13 +60,28 @@ Goal: to introduce a set larger than ℝ, in which all elements, even negative o
 To "make" a complex number, use 2 real numbers --> use ℝ²
 
 * Law already known about ℝ²:
-- Internal law + : ℝ² * ℝ² -> ℝ² : ((a,b),(c,d)) ~> (a+c, b+d)
+- Internal law + : `ℝ² * ℝ² -> ℝ² : ((a,b),(c,d)) ~> (a+c, b+d)`
 Properties => (ℝ², +) = commutative group
-- External law. : ℝ * ℝ² -> ℝ² : (r,(a,b)) ~> (ra,rb)
-Properties => (ℝ,ℝ²,+) = vector space of dimension 2
+- External law * : `ℝ * ℝ² -> ℝ² : (r,(a,b)) ~> (ra,rb)`
+Properties => `(ℝ,ℝ²,+)` = vector space of dimension 2
 
 * New law on ℝ²: 
-internal multiplication . : ℝ² * ℝ² -> ℝ²<br>
-Properties => (ℝ²{{0,0}}, -) = commutative group
+internal multiplication . : `ℝ² * ℝ² -> ℝ²`<br>
+Properties => `(ℝ²{(0,0)}, -)` = commutative group
 
-### Construction of ℂ
+## Construction of ℂ
+
+__Preliminary remark__
+- `(r,o) * (a,b) = (ra,rb) = (a,b) * (r,o)` // `r` and `(r,o)` are 2 elements of very different sets but play a similar role.
+- `r * (a,b) = (ra,rb) = (a,b) * r` -> "identify" them by an isomorphism
+
+* Let `P = {(a, 0) | a ∈ ℝ} ⊂ ℝ²` (represented in the Cartesian plane by the X axis)
+
+* `f : P -> ℝ : (a,0)` ~> a is a **bijection** that respects the + law because `f((a,0)+(b,0)) = f((a,0)) + f((b,0))` and the * law because `f((a,0) * (b,0)) = f((a,0)) * f((b,0))` 
+
+This is an isomorphism => same properties in the 2 fields `(ℝ, +, *)` and `(P, +, *)`<br>
+=> each pair of type (a,0) will be noted **a** *note that (a,0)≠a*<br>
+
+* What about the other pairs?
+`(a,b) = (a,0) + (0, b) = (a, 0) + (b, 0) * (0, 1)` <br>
+so i = new notation for (0,1), and (a,b) will be denoted `a + bi`
