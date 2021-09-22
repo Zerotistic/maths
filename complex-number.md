@@ -65,7 +65,7 @@ Properties => (ℝ², +) = commutative group<br>
 -- External law * : `ℝ * ℝ² -> ℝ² : (r,(a,b)) ~> (ra,rb)`<br>
 Properties => `(ℝ,ℝ²,+)` = vector space of dimension 2<br>
 
-* New law on ℝ²: 
+* New law on ℝ²: <br>
 -- internal multiplication . : `ℝ² * ℝ² -> ℝ²`<br>
 Properties => `(ℝ²{(0,0)}, -)` = commutative group
 
