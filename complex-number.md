@@ -69,7 +69,7 @@ Properties => `(ℝ,ℝ²,+)` = vector space of dimension 2<br>
 -- internal multiplication . : `ℝ² * ℝ² -> ℝ²`<br>
 Properties => `(ℝ²{(0,0)}, -)` = commutative group
 
-## Construction of ℂ
+### Construction of ℂ
 
 __Preliminary remark__
 - `(r,o) * (a,b) = (ra,rb) = (a,b) * (r,o)` // `r` and `(r,o)` are 2 elements of very different sets but play a similar role.
@@ -85,3 +85,9 @@ This is an isomorphism => same properties in the 2 fields `(ℝ, +, *)` and `(P,
 * What about the other pairs?
 `(a,b) = (a,0) + (0, b) = (a, 0) + (b, 0) * (0, 1)` <br>
 so i = new notation for (0,1), and (a,b) will be denoted `a + bi`
+**N.B.** `(0,1) * (0,1) = (-1,0)`, which is noted **i² = -1**.
+* i is called the **imaginary unit** (it is a square root of -1)
+* A complex number = an element of ℝ² which has changed notation.
+* The set of these numbers is noted ℂ
+
+## Operations and calculation rules - properties
