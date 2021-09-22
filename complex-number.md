@@ -91,3 +91,28 @@ so i = new notation for (0,1), and (a,b) will be denoted `a + bi`
 * The set of these numbers is noted ℂ
 
 ## Operations and calculation rules - properties
+* Law +:
+		In ℝ²: `(a,b) + (c,d) = (a+c, b+d)`<br>
+	==> In ℂ: `a + bi + c + di = a + c + (b + d) * i`<br>
+
+* Law \*:
+		In ℝ²: `(a,b) * (c,d) = (ac - bd, ad + bc)`<br>
+	==> In ℂ: `(a + bi) * (c + di) = ac - bd + (ad + bc) * i`<br>
+
+* `(ℂ,+,*)` = fields because `(ℝ²,+,*)` is one.
+
+* ℝ⊂ℂ because ℝ identified with P which is ⊂ℝ²
+
+* Vocabulary: ∀Z ∈ ℂ, Z is uniquely written `a + bi`.<br>
+	The real a is called the **real part** of z -> a = R(z)<br>
+	The real b is called the **imaginary part** of z -> b = I(z)<br>
+
+	if a = 0 and b ≠ 0, z = bi is **pure imaginary**<br>
+	if a ≠ 0 and b = 0, z = a is real<br>
+
+* 2 complex numbers are **equal** <=> they have the same real part and the same imaginary part i.e. `a + bi = c + di <=> a = c and b = d`
+
+* 2 complex numbers are **conjugate** <=> they have the same real part and opposite imaginary parts:
+	-> if `z = a + bi`, its conjugate = `a - bi`
+
+* ∀Z ∈ ℂ: zˉz ∈ ℝ *(note that ˉz = z conjugate)* 
