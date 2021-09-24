@@ -9,7 +9,7 @@
 --> always at least one solution, and at most 3.<br>
 ----> PoC why we've always at least one solution<br>
 			`f(x) = x³ + x² + x + 1`<br>
-			`lim(x->-∞) => f(x) = +∞` and `lim(x->+∞) => f(x) = -∞` <br>
+			`lim(x->-∞) => f(x) = -∞` and `lim(x->+∞) => f(x) = +∞` <br>
 4) To find the __integral roots__: Horner's method (1786 - 1837)<br>
 5) To approximate non-integer __roots__: graphical, dichotomous methods....<br>
 --> Dichotomy<br>
