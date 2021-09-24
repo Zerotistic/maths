@@ -140,7 +140,7 @@ This is denoted |z|; it is also worth `√(z * ˉz)` (and corresponds to the not
 * Does every complex number admit 2 square roots? To be proved!
 Let z ∈ ℂ --> `z = a + bi` with a and b real given<br>
 z admits a square root <=> ∃ z' ∈ ℂ verifying z'² = z (\*); denoted RC(z) = z' = x + yi with x and y searched<br>
-`(\*) ))> (x + yi)² = a + bi` <br>
+`(*) ))> (x + yi)² = a + bi` <br>
 ```
 ==> x² - y² = a -> x⁴ + y⁴ - 2x²y² = a²
 ==> 2xy = b -> 4x²y² = b² --> (x² + y²)² = a² + b²
