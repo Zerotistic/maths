@@ -118,13 +118,13 @@ so i = new notation for (0,1), and (a,b) will be denoted `a + bi`
 * ∀Z ∈ ℂ: zˉz ∈ ℝ *(note that ˉz = z conjugate)* 
 ## Geometric representation of ℂ
 
-* To represent ℝ²: on the Cartesian plane π0
+* To represent ℝ²: on the Cartesian plane π0<br>
 Each vector (with, at its end, a point) is marked by a pair of coordinates
 
-* To any complex number `à + bi` corresponds 1! pair
+* To any complex number `à + bi` corresponds 1! pair<br>
 --> 1! vector = __vector-image__ of `a + bi`, 1! point = __point-image__ of `a + bi`
 
-* To any vector corresponds 1! complex number = **its affix**
+* To any vector corresponds 1! complex number = **its affix**<br>
 --> If every element of π0 is marked by its affix, we have the **Gaussian plane** (or Argand's plane)<br>
 (a,b) = component of →v<br>
 a + bi = affix of →v<br>
