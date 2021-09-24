@@ -116,3 +116,37 @@ so i = new notation for (0,1), and (a,b) will be denoted `a + bi`
 	-> if `z = a + bi`, its conjugate = `a - bi`
 
 * ∀Z ∈ ℂ: zˉz ∈ ℝ *(note that ˉz = z conjugate)* 
+## Geometric representation of ℂ
+
+* To represent ℝ²: on the Cartesian plane π0
+Each vector (with, at its end, a point) is marked by a pair of coordinates
+
+* To any complex number `à + bi` corresponds 1! pair
+--> 1! vector = __vector-image__ of `a + bi`, 1! point = __point-image__ of `a + bi`
+
+* To any vector corresponds 1! complex number = **its affix**
+--> If every element of π0 is marked by its affix, we have the **Gaussian plane** (or Argand's plane)<br>
+(a,b) = component of →v<br>
+a + bi = affix of →v<br>
+→v = image vector of a + bi<br>
+M = image point of a + bi<br>
+
+If →v = image vector of `z = a + bi`; the norm of `→v = ||→v|| = √(a² + b²)` = the modulus of z<br>
+This is denoted |z|; it is also worth `√(z * ˉz)` (and corresponds to the notion of absolute value if z ∈ ℝ⁺)
+
+## Square roots of complex numbers
+1. Existence and form
+* Not all real numbers admit square roots
+* Does every complex number admit 2 square roots? To be proved!
+Let z ∈ ℂ --> `z = a + bi` with a and b real given<br>
+z admits a square root <=> ∃ z' ∈ ℂ verifying z'² = z (\*); denoted RC(z) = z' = x + yi with x and y searched<br>
+`(\*) ))> (x + yi)² = a + bi` <br>
+```
+==> x² - y² = a -> x⁴ + y⁴ - 2x²y² = a²
+==> 2xy = b -> 4x²y² = b² --> (x² + y²)² = a² + b²
+x² + y² = ±√(a² + b²)
+```
+In conclusion, any complex number z admits 2 square roots:<br>
+If z ∈ ℝ⁺ , the 2 roots are real and opposite;<br>
+If z ∈ ℝ-0 , the 2 roots are complex and opposite;<br>
+If z ∈ ℂ \ ℝ , the 2 roots are complex and opposite.<br>
